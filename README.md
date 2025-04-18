@@ -32,5 +32,6 @@ Instruction Execution can be divicded into four phases. These are
  The pipelining concept takes lot of advantages in many ofthe systems. The pipelining has some of the hazards. In thispaper the hazards concept is ignored. The pipelining ofinstructions which reduce the CPI, increases the speed of execution or operation, and also increase throughput ofoverall system. This is basic concept of any system and lot ofimprovement can be done in pipelining concept to increasethe speed of system. The future scope is to apply the conceptto different embedded systems and we can see how theperformance increases by this concept.
 
  "output" :
+ ![Image](https://github.com/user-attachments/assets/c04d7311-f5a3-4e1a-8708-e613cc8af7cb)
 
  
